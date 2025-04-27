@@ -27,7 +27,7 @@ Showcases personal projects, skills, about me, and contact information in a mode
 
 1. Clone the repository
     ```bash
-    git clone [https://github.com/tanmaypatil15/portfolio-template-v1.0](https://github.com/tanmaypatil15/portfolio-template-v1.0)
+    git clone https://github.com/tanmaypatil15/portfolio-template-v1.0
     ```
 
 2. Open the `index.html` file in your browser  
